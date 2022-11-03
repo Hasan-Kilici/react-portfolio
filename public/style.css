@@ -1,0 +1,57 @@
+*,
+*::before,
+*::after{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background-color: #343a40;
+  color:white;
+}
+
+.profile{
+  display:flex;
+    flex-wrap:wrap;
+  flex-direction:row;
+  gap:10px;
+}
+#pp{
+  border-radius:50%;
+  width:250px;
+  height:250px;
+  border:1.3px solid #343a40;
+}
+.ppBox{
+width:270px;
+}
+#bio{
+  wisth:100%;
+}
+.card{
+  margin-top:1vh;
+}
+.socialBox{
+  margin-top:1vh;
+}
+.follower{
+  margin-right:10px;
+}
+
+.icon{
+  font-size:1.5em;
+}
+
+#repostitle{
+  margin-top:1vh;
+}
+.d{
+  margin-top:1vh;
+}
+
+.b{
+  margin-top:1vh;
+}
+
+.img{height:180px}
