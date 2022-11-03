@@ -40,7 +40,7 @@ class App extends React.Component {
         <div className="row align-items-stretch">
           <div className="col-md-4">
             <div className="card bg-dark">
-                <img src="/public/assets/kwjs.png" className="rounded card-img-top img" />
+                <img src="https://kawethra.ga/uploads/uploaded_file-1660731440037-730230841.png" className="rounded card-img-top img" />
               <div className="card-body">
                 <h3>Kawethra.js</h3>
               </div>
